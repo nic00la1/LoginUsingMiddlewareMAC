@@ -23,3 +23,4 @@
 /Users/nicola/RiderProjects/LoginUsingMiddlewareMAC/LoginUsingMiddlewareMAC/obj/Debug/net8.0/LoginUsingMiddlewareMAC.pdb
 /Users/nicola/RiderProjects/LoginUsingMiddlewareMAC/LoginUsingMiddlewareMAC/obj/Debug/net8.0/LoginUsingMiddlewareMAC.genruntimeconfig.cache
 /Users/nicola/RiderProjects/LoginUsingMiddlewareMAC/LoginUsingMiddlewareMAC/obj/Debug/net8.0/ref/LoginUsingMiddlewareMAC.dll
+/Users/nicola/RiderProjects/LoginUsingMiddlewareMAC/LoginUsingMiddlewareMAC/obj/Debug/net8.0/LoginUsingMiddlewareMAC.sourcelink.json

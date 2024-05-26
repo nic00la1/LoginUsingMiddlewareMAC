@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoginUsingMiddlewareMAC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14eb11b53d0242bfbeb571ad376d33723b916cb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoginUsingMiddlewareMAC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoginUsingMiddlewareMAC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
